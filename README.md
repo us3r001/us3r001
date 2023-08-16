@@ -42,7 +42,7 @@
 <h2>🔥My Stats</h2>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=us3r001&show_icons=true&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=us3r001&show_icons=true&theme=tokyonight)
 
 
 
