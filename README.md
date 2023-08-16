@@ -1,7 +1,7 @@
 <h1>Welcome to my page! 🙋🏽</h1>
 
 
-<p>I'm Henri, junior developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330523.png" width="13" />
+<p>I'm Henri, a junior developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330523.png" width="13" />
     <b>Germany</b>.
 <h3>🛠️ Languages and Tools I often work with</h3>
 <p>
